@@ -9,7 +9,6 @@ Welcome to the Resume-Website repository! This project is a personal resume webs
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -54,5 +53,3 @@ Contributions are welcome! If you have any ideas or suggestions to improve this 
 ## Contact
 
 For any questions or inquiries, please contact me at princepandey4873@gmail.com.
-
-```` ▋
